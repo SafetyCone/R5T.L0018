@@ -1,0 +1,3 @@
+R5T.L0018.Construction - Construction project for Microsoft.Extensions.Options related Nuget packages selector..
+
+GOALS:
